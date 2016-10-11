@@ -1,3 +1,10 @@
+/* DogEdit: a text editor with collapsible chat functionality. 
+* Created by Andrew Barnard, Copyright 2015 to 2016. Note: this
+* is an incomplete application, created with the intention of 
+* becoming a better Java programmer.
+*/
+
+
 import javax.swing.*;
 import javax.swing.text.*;
 import javax.swing.JTabbedPane;
